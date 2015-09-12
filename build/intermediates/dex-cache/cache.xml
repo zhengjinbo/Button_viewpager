@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\AndroidStudioProjects\headNavigation\app\libs\fastjson-1.1.23.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ef04ec620624a71d05372f1335e4264577def71e">
+        <dex dex="D:\AndroidStudioProjects\headNavigation\app\build\intermediates\pre-dexed\debug\fastjson-1.1.23-1f6486a859165af7182b1362d52e1f8357c29c91.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidStudioProjects\headNavigation\app\build\intermediates\pre-dexed\debug\support-v4-18.0.0-5c13dae993a3a70564280b74f4a6300075997e8b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidStudioProjects\headNavigation\app\libs\core-xutils.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="178e0aa05871aba4acd8f2399f4e4d7c8d7aef9a">
+        <dex dex="D:\AndroidStudioProjects\headNavigation\app\build\intermediates\pre-dexed\debug\core-xutils-29ec53a5c0570a392de4e0507b4d2f49f66713b0.jar" />
+    </item>
+
+</items>
